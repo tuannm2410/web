@@ -1,11 +1,12 @@
 streamlit
-PIL
+Pillow
 openai
 requests
-io
+python-math
+Python-IO
 torch
-pickle
+pickle-mixin
 argparse
 torchvision
-re
+regex
 datetime
