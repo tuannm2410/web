@@ -5,7 +5,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 
-key = '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' 
+key = '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' 
 client = openai.OpenAI(api_key=key)
 
 def create_img(prompt):
